@@ -1,3 +1,4 @@
 test.tst
 *.log
 log/
+*.orig
