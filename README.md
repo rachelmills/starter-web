@@ -20,4 +20,4 @@ Please fork this repo and then issue pull requests for review.
 
 ### Copyright
 
-2018 rachelmills
+2018 rachelmills.  All rights reserved.
